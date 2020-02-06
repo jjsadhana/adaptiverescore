@@ -1,0 +1,13 @@
+.idea
+.vagrant
+.iml
+*.iml
+
+target/
+.classpath
+.project
+.settings
+.DS_Store
+/.idea/
+.vagrant
+/.vagrant/
