@@ -1,2 +1,2 @@
 # adaptiverescore
-Adaptive Rescoring toll
+Adaptive Rescoring tool
