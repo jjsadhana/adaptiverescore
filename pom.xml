@@ -64,7 +64,7 @@
             <artifactId>learnostiysdk</artifactId>
             <version>0.16.1</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/learnositysdk-0.16.1.jar</systemPath>
+            <systemPath>${project.basedir}/libs/learnositysdk-0.16.1.jar</systemPath>
         </dependency>
     </dependencies>
 <build>
