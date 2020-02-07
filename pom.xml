@@ -59,6 +59,13 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>learnosity</groupId>
+            <artifactId>learnostiysdk</artifactId>
+            <version>0.16.1</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/learnositysdk-0.16.1.jar</systemPath>
+        </dependency>
     </dependencies>
 <build>
     <plugins>
@@ -67,13 +74,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <version>2.1.0.RELEASE</version>
         </plugin>
+
     </plugins>
 </build>
-
-    <repositories>
-        <repository>
-            <id>learnosity-sdk-repo</id>
-            <url>file://${project.basedir}/learnosity-sdk-repo</url>
-        </repository>
-    </repositories>
 </project>
