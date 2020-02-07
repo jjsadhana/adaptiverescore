@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1b6346c-2cbd-471f-af2c-feac479b7365" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnositysdk-0.16.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/learnositysdk-0.16.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/learnositysdk-0.16.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/learnosity-sdk-0.16.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
